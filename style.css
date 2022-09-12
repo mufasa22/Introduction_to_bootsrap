@@ -1,0 +1,26 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+.logo {
+    width: 120px;
+    height: 90px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.students-list {
+    padding: 5px;
+    margin: 5px;
+}
+
+.contacts-list {
+    padding: 5px;
+    margin: 5px;
+}
